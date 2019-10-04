@@ -2,7 +2,9 @@
 # DoubleMonochromator
 Only still images, code is property of Centro Nacional de Metrologia
 This is the final version of the software I developed for Centro Nacional de Metrologia (CENAM). This image corresponds to when the homing routine has concluded.
-Image
+
+![The main user interface](UI.jpg)
+
 The software is used to control:
 * Two grating motors
 * Three openings motors
